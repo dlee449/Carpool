@@ -1,0 +1,11 @@
+npm
+npm install express
+npm install dotenv
+npm install mongoose
+npm install bcrypt
+npm install validator 
+npm install jsonwebtoken
+
+cd backend
+npm run dev
+
